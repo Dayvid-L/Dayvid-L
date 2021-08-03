@@ -15,7 +15,7 @@ LWJGL, LibGDX, Forge, Spigot, Sponge
 *C++ ( < 1 Year):*
 
 
-GlFW
+GLFW
 
 *JavaScript ( < 1 Year)*:
 
