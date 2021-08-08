@@ -15,12 +15,12 @@ LWJGL, LibGDX, Forge, Spigot, Sponge
 *C++ ( < 1 Year):*
 
 
-GLFW
+GLFW, GLAD, GLEW, SFML, STB (Image Loader), AASIMP (Model Loader)
 
 *JavaScript ( < 1 Year)*:
 
 
-Discord.js
+Node, Discord.js
 
 ## Contact ##
 
