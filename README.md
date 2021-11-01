@@ -12,7 +12,7 @@ For reviews look to:
 
 LWJGL, LibGDX, Forge, Spigot, Sponge
 
-*C++ ( < 1 Year):*
+*C++ ( < 2 Year):*
 
 
 GLFW, GLAD, GLEW, SFML, STB (Image Loader), AASIMP (Model Loader)
