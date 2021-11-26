@@ -30,5 +30,7 @@ Discord: AcidViper#5194 (I reply fastest on here)
 Email: Davidliernur@gmail.com
 
 
-## Coding Puzzle for 5$ ##
-Later there will be a coding puzzle here, first person to solve and send me the answer on discord will get 5$, for now there's nothing
+## Stats ##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AcidicViper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AcidicViper)](https://github.com/anuraghazra/github-readme-stats)
+
