@@ -7,24 +7,24 @@ For reviews look to:
 [Fiverr Page Reviews](https://www.fiverr.com/tvipert/make-you-a-minecraft-plugin)
 
 ## Languages and Stacks ##
-*Java ( > 5 years):*
+*Java ( > 6 years):*
 
 
 LWJGL, LibGDX, Forge, Spigot, Sponge
 
-*C++ ( < 2 Year):*
+*C++ ( > 2 Year):*
 
 
 GLFW, GLAD, GLEW, SFML, STB (Image Loader), AASIMP (Model Loader)
 
-*JavaScript ( < 1 Year)*:
+*JavaScript (1 Year)*:
 
 
 Node, Discord.js
 
 ## Contact ##
 
-Discord: AcidViper#5194 (I reply fastest on here)
+Discord: Dayvid#5194 (I reply fastest on here)
 
 
 Email: Davidliernur@gmail.com
