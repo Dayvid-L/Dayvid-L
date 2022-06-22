@@ -24,7 +24,7 @@ Node, Discord.js
 
 ## Contact ##
 
-Discord: Dayvid#5194 (I reply fastest on here)
+Discord: integral#2055 (I reply fastest on here)
 
 
 Email: Davidliernur@gmail.com
