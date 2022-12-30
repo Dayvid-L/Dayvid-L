@@ -19,7 +19,7 @@ GLFW, GLAD, GLEW, SFML, STB (Image Loader), AASIMP (Model Loader)
 
 ## Contact ##
 
-Discord: day#4253 (I reply fastest on here)
+Discord: swerve#4253 (I reply fastest on here)
 
 
 Email: Davidliernur@gmail.com
