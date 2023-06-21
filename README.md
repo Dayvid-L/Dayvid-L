@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 ## Languages and Stacks ##
-*Java ( > 8 years):*
+*Java ( > 9 years):*
 
 
 LWJGL, LibGDX, Forge, Spigot, Sponge, and a lot more.
 
-*C++ ( > 3 Year):* (Frankly, very limited C++ understanding)
+*C++ ( > 4 Year):
 
 
 GLFW, GLAD, GLEW, SFML
