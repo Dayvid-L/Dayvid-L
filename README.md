@@ -13,7 +13,7 @@ GLFW, GLAD, GLEW, SFML
 
 ## Contact ##
 
-Discord: sswerve (I reply fastest on here)
+Discord: swqrve (I reply pretty quickly on here)
 
 ## Stats ##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swqrve)](https://github.com/anuraghazra/github-readme-stats)
